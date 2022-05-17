@@ -1,4 +1,4 @@
-# tech{Know}
+# tech{Know} 👩🏻‍💻👨🏽‍💻
 
 [Unit 14 Model-View-Controller (MVC): Tech Blog Assignment]
 
@@ -8,14 +8,13 @@
 
 ---
 
-## Description
-
+## Description 📌
 A CSM-style tech blog site where developers can publish their blog posts and comment on other developers' posts. The application follows the MVC paradigm in its architectural structure using Handlebars.js as the templating language, Sequelize as the ORM, and the Express-Session NPM Package for authentication. The site is deployed on Heroku.
 
 [A deployed version can be viewed here.]()
 
   ---
-  ## Table of Contents
+  ## Table of Contents 📌
   1. [Title](#title)
   2. [Description](#description)
   3. [Installation](#installation)
@@ -28,16 +27,26 @@ A CSM-style tech blog site where developers can publish their blog posts and com
   10. [Questions](#questions)
   
   ---
-  ## Installation
+  ## Installation 📌
   Clone my repository on GitHub.
 
   
   ---
-  ## Usage
+  ## Usage 📌
+  
   Please see the video and screenshots.
-
+  
+  ### Features and Functionalities 🔌
+  1. 
   ---
-  ## License
+  
+  ## Technologies 📌
+  
+  
+  ---
+  
+  ## License 📌
+  
   License used for this project - MIT
   
   For more information on the above license and other license types, please see the following websites:  
@@ -45,25 +54,27 @@ A CSM-style tech blog site where developers can publish their blog posts and com
   - [Choose a License](https://choosealicense.com/)
 
   ---
-  ## Contributing
+  ## Contributing 📌
+  
   To contribute to this application: 
   Please email the author for guidelines.
 
   ---
-  ## Tests
+  ## Tests 📌
   Test 1
 
   ---
-  ## Credits
+  ## Credits 📌
+  
   The following people/resources were consulted and/or utilized in the development of this application:
   * Unit 14 Model-View-Controller (MVC) study materials, videos, and internet resources.
 
   ---
-  ## Author
+  ## Author 📌
   Jane Tiglao
 
   ---
-  ## Questions
+  ## Questions 📌
   For questions or issues, please contact: 
   - Jane Tiglao 
   - Email: janeytiglao@gmail.com
