@@ -1,10 +1,10 @@
 # tech{Know} 👩🏻‍💻👨🏽‍💻
 
-[Unit 14 Model-View-Controller (MVC): Tech Blog Assignment]
+Unit 14 Model-View-Controller (MVC): Tech Blog Assignment
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-(This is a workinf draft - assignment not yet submitted)
+(This is a working draft - assignment not yet submitted)
 
 ---
 
@@ -49,9 +49,8 @@ A CSM-style tech blog site where developers can publish their blog posts and com
   
   License used for this project - MIT
   
-  For more information on the above license and other license types, please see the following websites:  
-  - [Open Source Initiative](https://opensource.org/licenses)
-  - [Choose a License](https://choosealicense.com/)
+  For more information on the above license and other license types, please see the [Open Source Initiative](https://opensource.org/licenses).
+
 
   ---
   ## Contributing 📌
