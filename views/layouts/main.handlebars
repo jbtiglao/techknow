@@ -1,0 +1,49 @@
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>tech blog</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+
+  </head>
+
+  <body>
+    {{! <div> }}
+    <header>
+      <nav>
+        <div class="nav-wrapper">
+          <a href="/" class="brand-logo">techKnow</a>
+          {{#if loggedIn}}
+            <ul id="nav-mobile" class="right hide-on-med-and-down nav-margin">
+              <li><a href="/dashboard">Dashboard</a></li>
+              <li><button id="logout" class="btn-no-style">Logout</button></li>
+            </ul>
+          {{else}}
+            <ul id="nav-mobile" class="right hide-on-med-and-down nav-margin">
+              <li><a class="navbar-text" href="/login">Login</a></li>
+              <li><a class="navbar-text" href="/signup">SignUp</a></li>
+            </ul>
+          {{/if}}
+        </div>
+      </nav>
+    </header>
+    <main>
+      {{{body}}}
+    </main>
+    <footer class="page-footer">
+      <h4>Thanks for dropping by!</h4>
+    </footer>
+    {{!
+  </div> }}
+    {{#if loggedIn}}
+      <script src="/javascript/logout.js"></script>
+    {{/if}}
+
+  </body>
+
+</html>
